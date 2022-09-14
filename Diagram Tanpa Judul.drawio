@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T14:56:52.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RoVpS8TI8z5pSUSBo0yA" version="20.3.0" type="github"><diagram id="v3qjr9vGyqdx9F7sniW8" name="Halaman-1">lVRLb4MwDP41HCcV0udx7br1Uq0SmrZrRFyIlBAUQqH79QuLA6W06nZB9uf3Z5OAbGTzpmmR7RUDEUQT1gTkJYii5Xxpvy1wdsB0FTkg1Zw5KOyBmH8DghNEK86gHDgapYThxRBMVJ5DYgYY1VrVQ7ejEsOqBU1hBMQJFWP0kzOT4VjRosd3wNPMVw7nK2eR1DvjJGVGmaovILINyEYrZZwkmw2IljvPi4t7vWPtGtOQm78E7Mr9MjQxSaV8//pgew3V7AmznKiocGBs1pw9A7bvohVtJSoECJVqKgOyLkBzCQb0te3QG9Z1xg3EBU3aDLW9EItlRgqrhVY88gb80lsduwFtoLk7ZtiRZ48OlC2lz9YFA8hs6kLw4BZIf91vL/QryS42N0eM4sGkXeaeUysgrf+gOHpMMeTsub1VqyWCliVPhjRpVeUM2iKTjiRgo8N9SNEFB7MbFHhMg6CGn4bpb/GCFQ6K28LdBqb+38UNhOSK2lJVOgGMurzYB4m6R8EnMlSnYEaJftfUjX1rc1btfzzn3r9eZPsD</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-14T15:10:08.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="odpfian4eO2wbLIxTedZ" version="20.3.0" type="github">
+  <diagram id="v3qjr9vGyqdx9F7sniW8" name="Halaman-1">
+    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HsM81tS3gmmOXUdMreu5-1" value="s = 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HsM81tS3gmmOXUdMreu5-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="130" as="sourcePoint" />
+            <mxPoint x="410" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
